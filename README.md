@@ -1,144 +1,127 @@
-Optimizing Inventory and Expanding Product Range at Vishnu Priya Variety Store
+This project focuses on solving real-world retail challenges faced by Vishnu Priya Variety Store, a newly established grocery and stationery shop in Bhubaneswar, Odisha.
 
-Overview
+The project uses sales data analytics, inventory analysis, and visualization techniques to improve:
 
-This project focuses on improving inventory management and expanding the product range of Vishnu Priya Variety Store, a retail grocery and stationery shop located in Bhubaneswar, Odisha.
+✅ Inventory Management
+✅ Product Availability
+✅ Revenue Generation
+✅ Product Variety Expansion
+✅ Decision Making
 
-The project was completed as part of the BDM Capstone Project under the IIT Madras Online BS Degree Program.
+🎯 Problem Statement
 
-Problem Statement
+The store faced two major business problems:
 
-The store faced two major challenges:
+📦 1. Inventory Management Issues
+Overstocking of slow-moving products
+Deadstock causing storage and financial losses
+Lack of proper inventory tracking system
+Frequent stockouts of essential products
+🛒 2. Limited Product Variety
+Restricted customer choices
+Lower customer engagement
+Reduced competitiveness in local market
+Missed opportunities near nearby school demand
+🧠 Business Objective
 
-Overstocking and deadstock due to lack of proper inventory tracking
+The goal of this project is to transform a traditional retail store into a more data-driven business using simple analytical techniques.
 
-Limited product variety affecting customer choice and sales growth
+Key Objectives:
+Analyze sales trends
+Identify fast-moving & slow-moving products
+Improve stocking decisions
+Reduce inventory wastage
+Introduce profitable new product categories
+Improve operational efficiency
+🗂️ Dataset Information
 
-The project uses sales data analysis to provide data-driven solutions for improving operational efficiency and profitability.
+📅 Duration: 60 Days (June 30 – August 30, 2025)
 
-Objectives
-
-Analyze product-wise sales trends
-
-Identify fast-moving and slow-moving products
-
-Reduce deadstock and stock shortages
-
-Study customer demand patterns
-
-Evaluate the impact of introducing stationery products
-
-Improve inventory decision-making using analytical techniques
-
-
-Dataset
-
-The dataset consists of:
-
-60 days of sales data (June 30 – August 30, 2025)
-
-Variables such as:
-
-Date
-
-Product Name
-
-Category
-
-Quantity Sold
-
-Revenue
-
-Supplier Name
-
-Stock Remaining
-
-Tools Used
-
-Google Sheets
-
-Microsoft Excel
-
-Pivot Tables
-
-Charts & Data Visualization
-
-Analysis Performed
-
-Descriptive Statistics
-
+Dataset Variables
+Variable	Description
+Date	Daily sales record
+Product Name	Name of product sold
+Category	Grocery / Stationery
+Quantity Sold	Units sold
+Revenue	Daily revenue generated
+Supplier Name	Product supplier
+Stock Remaining	Remaining inventory
+🛠️ Tools & Technologies Used
+<div align="center">
+Tool	Purpose
+📊 Google Sheets	Data Cleaning & Analysis
+📈 Excel	Visualization & Statistics
+📉 Pivot Tables	Trend Analysis
+📋 Charts	Insights & Reporting
+</div>
+📊 Analysis Performed
+📌 Descriptive Statistics
 Mean
-
 Median
-
 Mode
-
 Standard Deviation
-
 Correlation Analysis
-
-Inventory Analysis
-
+📦 Inventory Optimization Techniques
 ABC Analysis
-
 FSN Classification
-
 EOQ (Economic Order Quantity)
-
 Reorder Point (ROP)
-
 Safety Stock Calculation
-
-Visualizations
-
+📈 Visual Analysis
 Scatter Plots
-
 Revenue Ranking Charts
-
 Pie Charts
+Profit Trend Graphs
+Monthly Comparison Graphs
+🔍 Key Findings
+🥇 High Performing Products
 
-Monthly Sales Comparison
+The following products contributed the highest revenue:
 
-Weekly Profit Analysis
+🍚 Rice
+🍪 Biscuits
+🛢️ Edible Oil
+🌾 Dal
 
-Key Findings
+These products were identified as:
 
-Rice, biscuits, edible oil, and dal were identified as fast-moving, high-revenue products.
+Fast-moving
+High-demand
+High-priority inventory items
+📝 Stationery Product Insights
 
-Stationery products showed gradual growth after introduction.
+New stationery products like:
 
-Proper inventory prioritization can reduce stockouts and deadstock.
+📒 Notebooks
+🖊️ Pens
+✏️ Pencils
 
-Data-driven inventory management improves profitability and customer satisfaction.
+showed gradual growth after introduction, especially due to nearby student demand.
 
-Results
+📉 Business Challenges Identified
+Challenge	Impact
+Overstocking	Blocked capital
+Deadstock	Wastage
+Stockouts	Missed sales
+Manual tracking	Poor inventory visibility
+✅ Recommendations
+📦 Inventory Improvements
+Maintain reorder levels
+Prioritize high-demand items
+Monitor fast-moving products regularly
+💳 Operational Enhancements
+Introduce digital payment systems
+Maintain digital inventory records
+Improve supplier coordination
+🛒 Product Expansion
+Increase stationery visibility
+Expand based on demand trends
+Purchase low-demand items cautiously
+📈 Project Outcome
 
-The project demonstrated that:
+The project successfully demonstrated that:
 
-Structured inventory monitoring improves stock availability
-
-Product diversification increases customer engagement
-
-Small retail businesses can benefit significantly from simple analytical methods
-
-Project Files
-
-Proposal Report
-
-Mid-Term Report
-
-Final Report
-
-Sales Dataset
-
-Charts & Visualizations
-
-Future Improvements
-
-Build a real-time inventory dashboard
-
-Integrate barcode scanning
-
-Add demand forecasting models
-
-Develop a simple POS system
+✅ Data-driven inventory management improves efficiency
+✅ Product diversification increases customer engagement
+✅ Proper stock monitoring reduces losses
+✅ Simple analytics can improve small retail businesses significantly
